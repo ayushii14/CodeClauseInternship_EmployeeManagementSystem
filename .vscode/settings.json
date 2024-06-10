@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "EMS/Libraries/sql/mysql-connector-java-8.0.28.jar",
+        "EMS/Libraries/jcalendar-tz-1.3.3-4.jar",
+        "EMS/Libraries/ResultSet2xml.jar"
+    ]
+}
